@@ -3,7 +3,7 @@
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 
 
-  <div> 项目111112312312123123</div>
+  <div> 项目111112313</div>
 </template>
 
 <script>
